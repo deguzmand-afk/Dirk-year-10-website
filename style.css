@@ -1,1 +1,17 @@
+.food-card {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+    background-color: #f18847;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 6px 6px 0px #c36a36;
+    align-items: flex-start;}
+
+.food-card img {
+    max-width: 260px;
+    border-radius: 12px;}
+
+body {
+    background-color: #ef9156;}
 
